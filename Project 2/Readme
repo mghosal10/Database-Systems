@@ -1,0 +1,13 @@
+Team Members:
+Madhumita Ghosal
+Riya Lotlikar  
+Srushti Desai
+
+1) Run package login into oracle account with the following command:
+
+start Proj2data
+
+2)Exit from the Oracle Database. Run and compile java file with the following commands:
+
+Run: javac mydemo3.java
+Compile: java mydemo3
